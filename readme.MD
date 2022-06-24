@@ -1,6 +1,13 @@
-https://es.acervolima.com/deteccion-de-expresiones-faciales-usando-el-modulo-deepface-en-python/
+Pasos:
+ - Entra al directorio del proyecto
+ - Creas un virtual environment 
+    * python -m venv venv
+ - Activar virtual environment
+    * venv\Scripts\activate
+ - Instalar dependencias
+    * pip install -r requirements.txt
+ - Correr el fichero video.py
+    * python video.py
 
-https://geekyhumans.com/emotion-detection-using-python-and-deepface/
 
-
-https://analyticsindiamag.com/face-recognition-system-using-deepfacewith-python-codes/
+En la carpeta output  en el fichero result.txt se van salvando los estado emocionales en cada instante
